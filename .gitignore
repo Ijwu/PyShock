@@ -1,0 +1,7 @@
+/.idea
+*/__pycache__
+/pyshock/tests
+/pyshock/build
+/pyshock/source
+/pyshock/Makefile
+/pyshock/make.bat
